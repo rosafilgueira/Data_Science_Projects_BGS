@@ -9,7 +9,9 @@ Solution(s) adopted.  I have applied two  Machine learning classifier approaches
 	
 	b) Using deep-Neural Networks Neural Networks (rf-cnn-text-classification-tf) with TensorFlow strategy for doing the same classification, and compare techniques. This code is a branch of the original code developed by Denny Britz at https://github.com/dennybritz/cnn-text-classification-tf
 
-Data Science areas:  Data Mining + Machine Learning + Software tools + Parallel Computing + Parallel Systems
+## Data Science areas: 
+Data Mining + Machine Learning + Software tools + Parallel Computing + Parallel Systems
 
-Resources:  data-pipeline (dispel4py) + Python + TensorFlow + NLTK and Scikit-Learn
+## Resources:  
+data-pipeline (dispel4py) + Python + TensorFlow + NLTK and Scikit-Learn
 
